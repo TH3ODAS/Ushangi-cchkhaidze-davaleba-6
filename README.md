@@ -1,2 +1,2 @@
-# Ushangi-cchkhaidze-davaleba-6
+# Ushangi-chkhaidze-davaleba-6
  
