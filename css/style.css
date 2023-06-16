@@ -1,0 +1,423 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,700;1,700&display=swap');
+
+body{
+	background-color: #F5F5F5;
+}
+nav, img, li{
+	display: inline-block;
+	vertical-align: middle;
+}
+li{
+	margin-top: 21px;
+	margin-right: 35px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 11px;
+	margin-block: 42px;
+}
+.HM{
+	margin-left: 137px;
+}
+a{
+	color: #000000;
+}
+h2{
+	margin-left: 137px;
+	width: 120px;
+	height: 28px;
+	font-family: 'Roboto';
+	font-weight: 700;
+	font-size: 24px;
+	margin-bottom: 27px;
+}
+.conteiner{
+	margin-left: 138px;
+	width: 1166px;
+	height: 357px;
+	position: relative;
+	padding left: 138px;
+	margin-bottom: 57px;
+}
+
+.beach_in_Los_Angeles{
+	position: absolute;
+	width: 362px;
+	height: 186px;
+	border-radius: 5px 5px 0px 0px;
+}
+h3{
+	position: absolute;
+	width: 184px;
+	height: 23px;
+	font-family: 'Roboto';
+	font-weight: 700;
+	font-size: 20px;
+	color: #FFFFFF;
+	top: 32px;
+	left: 41px;
+	display: inline-block;
+}
+.beach_in_Ibiza {
+	width: 362px;
+    height: 186px;
+    border-radius: 5px 5px 0px 0px;
+    left: 402px;
+    position: absolute;
+}
+.beach_in_Ibiza-hdl{
+	left: 442px;
+	top: 37px;
+}
+.beach_in_Iceland{
+	position: absolute;
+	width: 362px;
+	height: 186px;
+	border-radius: 5px 5px 0px 0px;
+	left: 804px;
+}
+.beach_in_Iceland-hdl{
+	left: 845px;
+	top: 37px;
+}
+.white-box{
+	display: inline-block;
+	position: absolute;
+	width: 362px;
+	height: 171px;
+	background: #FFFFFF;
+	border-radius: 0px 0px 5px 5px;
+    top: 186px;
+}
+p{
+	display: inline-block;
+	position: absolute;
+}
+.text{
+	width: 238px;
+	height: 36px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 10px;
+	color: #8A8787;
+	top: 68px;
+	left: 37px;
+}
+.white-box-Ibiza{
+	position: absolute;
+	width: 362px;
+	height: 169px;
+	background: #FFFFFF;
+	border-radius: 0px 0px 5px 5px;
+	top: 186px;
+	left: 402px;
+}
+.text-Ibiza{
+	width: 207px;
+	height: 36px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 10px;
+	color: #8A8787;
+	top: 67px;
+	left: 37px;
+}
+.white-box-iceland{
+	position: absolute;
+	width: 362px;
+	height: 166px;
+	background: #FFFFFF;
+	border-radius: 0px 0px 5px 5px;
+	left: 804px;
+	top: 186px;
+}
+.text-iceland{
+	width: 214px;
+	height: 36px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 10px;
+	color: #8A8787;
+	top: 67px;
+	left: 37px;
+}
+.clock{
+	top: 115px;
+	left: 40px;
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	color: #8A8787;
+}
+.time{
+	width: 34px;
+	height: 12px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 10px;
+	color: #8A8787;
+	top: 118px;
+	left: 67px;
+
+}
+h4{
+	margin-left: 140px;
+	width: 196px;
+	height: 28px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 24px;
+	color: #000000;
+	margin-bottom: 30px;
+}
+.img-comteiner{
+	margin-left: 138px;
+	width: 1165px;
+	height: 902px;
+	position: relative;
+	margin-bottom: 36px;
+}
+.bridge{
+	position: absolute;
+	width: px;
+	height: 430px;
+	border-radius: 5px;
+}
+.bridge-txt{
+	width: 202px;
+	height: 23px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	color: #FFFFFF;
+	top: 203px;
+	left: 278px;
+
+}
+.nature{
+	position: absolute;
+	width: 362px;
+	height: 212px;
+	border-radius: 5px;
+	right: 0px;
+}
+.elephant{
+	position: absolute;
+	width: 362px;
+	height: 212px;
+	border-radius: 5px;
+	right: 0px;
+	top: 310px;
+
+}
+.mountains{
+	position: absolute;
+	width: 758px;
+	height: 430px;
+	border-radius: 5px;
+	bottom: 0px;
+}
+.city{
+	position: absolute;
+	width: 362px;
+	height: 212px;
+	border-radius: 5px;
+	right: 0px;
+	bottom: 65px;
+}
+.ftr-conteiner{
+	position: relative;
+	width: 100%;
+	height: 201px;
+	background-color: #243043;
+	display: inline-block;
+
+}
+.home{
+	position: absolute;
+	width: 33px;
+	height: 14px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+	color: #818687;
+
+}
+.discovery{
+	position: absolute;
+	width: 54px;
+	height: 14px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+	color: #818687;
+	
+
+}
+.photos{
+	position: absolute;
+	width: 39px;
+	height: 14px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+    color: #818687;
+   
+}
+.contact{
+	position: absolute;
+	width: 43px;
+	height: 14px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+	color: #818687;
+
+}
+.About{
+	position: absolute;
+	width: 33px;
+	height: 14px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+	color: #818687;
+	
+}
+.Help{
+	position: absolute;
+	width: 25px;
+	height: 14px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+	color: #818687;
+
+}
+.Terms{
+	position: absolute;
+	width: 35px;
+	height: 14px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+	color: #818687;
+
+
+}
+.Guidlines{
+	position: absolute;
+	width: 51px;
+	height: 14px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+	color: #818687;
+
+}
+.Testimonials{
+	position: absolute;
+	width: 70px;
+	height: 14px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+	color: #818687;
+}
+.Advertise{
+	position: absolute;
+	width: 52px;
+	height: 14px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+	color: #818687;
+
+}
+.Integrations{
+	position: absolute;
+	width: 66px;
+	height: 14px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+	color: #818687;
+
+}
+.Careers{
+	position: absolute;
+	width: 43px;
+	height: 14px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+	color: #818687;
+}
+.home, .discovery, .photos, .contact{
+	left: 137px;
+}
+.About, .Help, .Terms, .Guidlines{
+	left: 266px;
+}
+.Testimonials, .Advertise, .Integrations, .Careers{
+	left: 417px;
+}
+.home, .About, .Testimonials, .swu{
+	top: 59px;
+}
+.discovery, .Help, .Advertise{
+	top: 87px;
+	
+}
+.photos, .Terms, .Integrations{
+	top: 115px;
+	
+}
+.contact, .Guidlines, .Careers{
+	top: 143px;
+    
+}
+.swu{
+	left: 599px;
+	position: absolute;
+	width: 249px;
+	height: 14px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 14px;
+	color: #FFFFFF;
+	top: 59px;
+
+}
+.logo{
+	position: absolute;
+	width: 38px;
+    height: 40px;
+    top: 58px;
+    left: 1264px;
+
+}
+div a{
+	color: #818687;
+
+}
